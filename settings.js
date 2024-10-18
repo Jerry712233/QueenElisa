@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==QR6FFVzVETlpVSZdXWrZzM2RkcFtEV6V1SVFjN0VXYyNjUxoXcVdVV3dHMjw0NLVEbVRWVpwd=67326488672',
+  SESSION_ID: 'QUEENELISA;;;==ANZJDUhJkVOdnV2IjRLJ0XLNUSZtkR0VWMCNWWqJDZmNUZtQnd30iTIFDejolQLVVQFlkWpwd=75045153772',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -26,19 +26,19 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
   OWNER_NAME: 'Tristan',
   OWNER_NUMBER: '27634624586 ',
-  SUDO: '27688462376',
+  SUDO: '27735154057',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Africa/Johannesburg',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
   STICKER_AUTHOR: '©Tristan',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  STICKER_PACK: '👸',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 900,
   OWNER_R_EMOJI: '😻',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
-  INBOX_BLOCK: true,
+  INBOX_BLOCK: false,
   OWNER_REACT: true,
   AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: false,
